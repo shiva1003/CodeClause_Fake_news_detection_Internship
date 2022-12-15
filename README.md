@@ -22,7 +22,7 @@ Accuracy: 0.8633
 0 = negative
 1 = positive
 
-# PROJECT-3 Detection_of_Parkinson-s_disease.
+# PROJECT-3 Detection of Parkinson's disease.
 task-3 for internship of codeclause
 By implementing several models of Machine Learning
       Linear SVM: 79.30%
